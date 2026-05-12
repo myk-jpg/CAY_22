@@ -38,6 +38,9 @@ MATLAB Runtime R2021b 下载地址：https://ww2.mathworks.cn/products/compiler/
 - 图4~图17 这些图显示了相关参数的变化，具体含义请参考相关课程文件示例
 - 运行日志 run_log.txt 这个日志包含了所有运行过程以及曲线拟合函数结果
 
+# 群组链接
+如想讨论或参与项目可加入我们的群组：https://t.me/+9VK4QAM4-SE5ZGNi
+
 # ⚠️免责声明
 CAY_22 的计算结果可能出错！  
 此程序仅提供验算，不能代替你的理解与计算结果！  
