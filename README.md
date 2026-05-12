@@ -1,14 +1,14 @@
 # CAY_22
-CAY_22 是一个基于 MATLAB Runtime 的航空发动机控制参数计算与绘图工具。 
-用于萨马拉国家研究大学24.03.05《ДВИГАТЕЛИ ЛЕТАТЕЛЬНЫХ АППАРАТОВ》 
-第八学期《Автоматика и регулирование》课程项目的全部计算 
-请先学习理解课程项目的内容再自行计算！CAY_22 仅提供验证作用！ 
+CAY_22 是一个基于 MATLAB Runtime 的航空发动机控制参数计算与绘图工具。   
+用于萨马拉国家研究大学24.03.05《ДВИГАТЕЛИ ЛЕТАТЕЛЬНЫХ АППАРАТОВ》   
+第八学期《Автоматика и регулирование》课程项目的全部计算   
+请先学习理解课程项目的内容再自行计算！CAY_22 仅提供验证作用！   
 
 # 环境要求
-运行本程序要求电脑已安装 Microsoft Office 2010 或更高版本 
-本程序依赖 MATLAB Runtime R2021b。 
-请先安装：MATLAB Runtime R2021b 然后运行 
-MATLAB Runtime R2021b 下载地址：https://ww2.mathworks.cn/products/compiler/matlab-runtime.html. 
+运行本程序要求电脑已安装 Microsoft Office 2010 或更高版本   
+本程序依赖 MATLAB Runtime R2021b。   
+请先安装：MATLAB Runtime R2021b 然后运行   
+MATLAB Runtime R2021b 下载地址：https://ww2.mathworks.cn/products/compiler/matlab-runtime.html.  
 或者参照最新发布版的流程进行安装
 
 # 基本功能
@@ -39,7 +39,7 @@ MATLAB Runtime R2021b 下载地址：https://ww2.mathworks.cn/products/compiler/
 - 运行日志 run_log.txt 这个日志包含了所有运行过程以及曲线拟合函数结果
 
 # ⚠️免责声明
-CAY_22 的计算结果可能出错！ 
-此程序仅提供验算，不能代替你的理解与计算结果！ 
-请勿直接使用程序的计算结果作为课程项目的最终结果提交！ 
+CAY_22 的计算结果可能出错！  
+此程序仅提供验算，不能代替你的理解与计算结果！  
+请勿直接使用程序的计算结果作为课程项目的最终结果提交！  
 由此产生的任何问题与本程序无关！ 
