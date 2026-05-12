@@ -1,12 +1,19 @@
 # CAY_22
 CAY_22 是一个基于 MATLAB Runtime 的航空发动机控制参数计算与绘图工具。
+
 用于萨马拉国家研究大学24.03.05《ДВИГАТЕЛИ ЛЕТАТЕЛЬНЫХ АППАРАТОВ》
+
 第八学期《Автоматика и регулирование》课程项目的全部计算
+
 请先学习理解课程项目的内容再自行计算！CAY_22 仅提供验证作用！
 
+
 本程序依赖 MATLAB Runtime R2021b。
+
 请先安装：MATLAB Runtime R2021b 然后运行
-MATLAB Runtime R2021b 下载地址：https://ww2.mathworks.cn/products/compiler/matlab-runtime.html
+
+MATLAB Runtime R2021b 下载地址：https://ww2.mathworks.cn/products/compiler/matlab-runtime.html.
+
 或者参照最新发布版的流程进行安装
 
 # 基本功能
